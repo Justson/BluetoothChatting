@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\person.png",
+        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\mipmap-xhdpi\\person.png"
+    },
+    {
+        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\back.png",
+        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\mipmap-xhdpi\\back.png"
+    }
+]

@@ -1,0 +1,143 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:3:11-46
+		INJECTED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml
+		INJECTED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml
+		INJECTED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml
+		INJECTED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:5:5-74
+	android:name
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:5:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:10:5-26:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.7.1] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.tbruyelle.rxpermissions\rxpermissions\0.7.1\AndroidManifest.xml:10:5-15:19
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:28:5-57:19
+	android:label
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:13:9-41
+	android:supportsRtl
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:14:9-35
+	android:allowBackup
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:11:9-35
+	android:icon
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:12:9-43
+	android:theme
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:15:9-40
+activity#com.ucmap.bluetoothsearch.MainActivity
+ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:16:9-25:20
+	android:screenOrientation
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:18:13-49
+	android:name
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:17:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:21:17-68
+	android:name
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml:23:27-74
+uses-sdk
+INJECTED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.4.0] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [me.drakeet.materialdialog:library:1.3.1] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\me.drakeet.materialdialog\library\1.3.1\AndroidManifest.xml:8:5-10:41
+MERGED from [io.reactivex:rxandroid:1.2.0] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\io.reactivex\rxandroid\1.2.0\AndroidManifest.xml:19:5-43
+MERGED from [com.tbruyelle.rxpermissions:rxpermissions:0.7.1] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.tbruyelle.rxpermissions\rxpermissions\0.7.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:recyclerview-v7:23.0.1] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.1] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\AndroidManifest.xml:18:5-42
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:20:5-22:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml
+		INJECTED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml
+		INJECTED from F:\studio\study\bluetoothsearch\src\main\AndroidManifest.xml
+activity#com.tbruyelle.rxpermissions.ShadowActivity
+ADDED from [com.tbruyelle.rxpermissions:rxpermissions:0.7.1] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.tbruyelle.rxpermissions\rxpermissions\0.7.1\AndroidManifest.xml:11:9-14:75
+	android:launchMode
+		ADDED from [com.tbruyelle.rxpermissions:rxpermissions:0.7.1] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.tbruyelle.rxpermissions\rxpermissions\0.7.1\AndroidManifest.xml:13:13-43
+	android:theme
+		ADDED from [com.tbruyelle.rxpermissions:rxpermissions:0.7.1] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.tbruyelle.rxpermissions\rxpermissions\0.7.1\AndroidManifest.xml:14:13-72
+	android:name
+		ADDED from [com.tbruyelle.rxpermissions:rxpermissions:0.7.1] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.tbruyelle.rxpermissions\rxpermissions\0.7.1\AndroidManifest.xml:12:13-70
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:25:5-80
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:25:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:26:5-81
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:26:22-78
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:29:9-32:45
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:31:13-36
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:32:13-42
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:30:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:33:9-35:39
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:34:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:37:9-49:20
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:39:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:41:13-71
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:40:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:43:13-63
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:42:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:38:13-80
+activity#com.squareup.leakcanary.internal.RequestStoragePermissionActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:50:9-56:68
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:52:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:54:13-82
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:53:13-54
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:56:13-65
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:55:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.5] F:\studio\study\bluetoothsearch\build\intermediates\exploded-aar\com.squareup.leakcanary\leakcanary-android\1.5\AndroidManifest.xml:51:13-93

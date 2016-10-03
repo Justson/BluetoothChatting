@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="#ebebeb"
+              android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/chat_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_marginTop="2dp"
+        android:gravity="center"
+        android:text="2016--10-3 11:02"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:id="@+id/chat_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="Me"
+            android:textColor="#1e1f20"
+            android:textSize="16sp"/>
+
+        <TextView
+
+            android:id="@+id/chat_content"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="15dp"
+            android:layout_toLeftOf="@+id/chat_name"
+            android:minHeight="40dp"
+            android:paddingRight="15dp"
+            android:paddingLeft="15dp"
+            android:text="1"
+            android:gravity="center_vertical"
+            android:minWidth="40dp"
+            android:textColor="#000000"
+            android:textSize="16sp"/>
+
+    </RelativeLayout>
+
+</LinearLayout>
