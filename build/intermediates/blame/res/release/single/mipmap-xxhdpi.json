@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/release/mipmap-xxhdpi/back.png",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/mipmap-xxhdpi/back.png"
+    },
+    {
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/release/mipmap-xxhdpi/person.png",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/mipmap-xxhdpi/person.png"
+    }
+]

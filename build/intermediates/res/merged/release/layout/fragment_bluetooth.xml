@@ -1,0 +1,55 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <include
+        android:id="@+id/include_toorbar"
+        layout="@layout/toolbar_"></include>
+
+    <RelativeLayout
+        android:id="@+id/bottom_na"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/sendButton"
+            android:layout_width="65dp"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/press_green_shadow"
+            android:text="Send"
+            android:textAllCaps="false"
+            android:textColor="#ffffff"/>
+
+        <EditText
+            android:id="@+id/inputEdit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toLeftOf="@+id/sendButton"
+            android:colorAccent="#FF019706"
+            android:inputType="text"
+            android:theme="@style/edit"
+            />
+
+
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/content_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/bottom_na"
+        android:layout_below="@+id/include_toorbar"
+        android:background="#ebebeb"
+        >
+
+    </android.support.v7.widget.RecyclerView>
+
+</RelativeLayout>

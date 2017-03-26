@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+        "outputFile": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 112
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 184
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 254
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 318
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 389
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 457
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-land\\values-land.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-land/values-land.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,13 +11,13 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 295,
+                        "startOffset": 291,
                         "endColumn": 57,
-                        "endOffset": 348
+                        "endOffset": 344
                     }
                 }
             }

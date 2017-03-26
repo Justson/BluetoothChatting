@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "/Users/cenxiaozhong/.android/build-cache/a5c584a0ec9de8b53ae98951f5d922cb6bb64182/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

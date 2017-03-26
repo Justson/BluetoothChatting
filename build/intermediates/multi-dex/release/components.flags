@@ -1,0 +1,37 @@
+-injars /Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/transforms/jarMerging/release/jars/1/1f/combined.jar
+-outjars /Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/multi-dex/release/componentClasses.jar
+
+-libraryjars /Users/cenxiaozhong/Library/Android/sdk/build-tools/25.0.0/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/multi-dex/release/components.flags
+
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

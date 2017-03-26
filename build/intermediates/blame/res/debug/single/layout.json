@@ -1,202 +1,202 @@
 [
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/leak_canary_ref_row.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/layout/leak_canary_ref_row.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\list_devices.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\layout\\list_devices.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/layout/list_item.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_bluetooth.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\layout\\fragment_bluetooth.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\layout_material_dialog.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\me.drakeet.materialdialog\\library\\1.3.1\\res\\layout\\layout_material_dialog.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\layout_write.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\layout\\layout_write.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/notification_media_cancel_action.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/layout_write.xml",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/layout/layout_write.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\layout\\list_item.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_row.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_ref_row.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_search_view.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_display_leak.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_display_leak.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/layout_read.xml",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/layout/layout_read.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_alert_dialog_material.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_leak_row.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_leak_row.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\layout_read.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\layout\\layout_read.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/leak_canary_display_leak.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/layout/leak_canary_display_leak.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/list_devices.xml",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/layout/list_devices.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/fragment_bluetooth.xml",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/layout/fragment_bluetooth.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/layout/activity_main.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/leak_canary_heap_dump_toast.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/layout/leak_canary_heap_dump_toast.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/leak_canary_leak_row.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/layout/leak_canary_leak_row.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_ref_top_row.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_ref_top_row.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\leak_canary_heap_dump_toast.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\layout\\leak_canary_heap_dump_toast.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/leak_canary_ref_top_row.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/layout/leak_canary_ref_top_row.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/toolbar_.xml",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/layout/toolbar_.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar_.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\layout\\toolbar_.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/layout_material_dialog.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/b78dd212c14fc4733862d58ff988b24e205f4ddf/output/res/layout/layout_material_dialog.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
-        "source": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/layout/notification_media_action.xml"
     }
 ]

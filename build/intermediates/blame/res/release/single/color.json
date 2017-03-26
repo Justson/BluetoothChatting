@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/color/abc_secondary_text_material_dark.xml"
+    }
+]

@@ -1,22 +1,22 @@
 [
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\back.png",
-        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\mipmap-xxxhdpi\\back.png"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/mipmap-xxxhdpi/chatfrom_bg_normal.9.png",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/mipmap-xxxhdpi/chatfrom_bg_normal.9.png"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\chatto_bg_normal.9.png",
-        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\mipmap-xxxhdpi\\chatto_bg_normal.9.png"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/mipmap-xxxhdpi/back.png",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/mipmap-xxxhdpi/back.png"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/mipmap-xxxhdpi/person.png",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/mipmap-xxxhdpi/person.png"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\chatfrom_bg_normal.9.png",
-        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\mipmap-xxxhdpi\\chatfrom_bg_normal.9.png"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/mipmap-xxxhdpi/chatto_bg_normal.9.png",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/mipmap-xxxhdpi/chatto_bg_normal.9.png"
     },
     {
-        "merged": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\person.png",
-        "source": "F:\\studio\\study\\bluetoothsearch\\src\\main\\res\\mipmap-xxxhdpi\\person.png"
+        "merged": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     }
 ]

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-de\\values-de.xml",
+        "outputFile": "/Users/cenxiaozhong/AndroidStudioProjects/App/BluetoothChatting/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 155
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 263
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 386
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 484
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 596
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 682
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 787
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 902
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 979
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1055
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1137
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1248
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1351
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1450
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1561
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1663
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1770
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1892
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 1994
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 2078
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 2158
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 2278
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 2372
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 2427
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 2491
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 2597
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 2666
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 2739
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 2863
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 2957
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 3025
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 3098
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 3171
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 3262
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 3412
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 3541
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -695,7 +695,7 @@
                     "endOffset": 3647
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 3720
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 3783
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -752,7 +752,7 @@
                     "endOffset": 3846
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 3941
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -790,7 +790,7 @@
                     "endOffset": 4050
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.squareup.leakcanary\\leakcanary-android\\1.5\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/30516c8ac6e4fe4e5a7a416aaa7290e7f4fd8f93/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -809,7 +809,7 @@
                     "endOffset": 4151
                 },
                 "from": {
-                    "file": "F:\\studio\\study\\bluetoothsearch\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\values-de\\values-de.xml",
+                    "file": "/Users/cenxiaozhong/.android/build-cache/5959d53b2c4315d38ec66910ccceba51cd4d4ab1/output/res/values-de/values-de.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
